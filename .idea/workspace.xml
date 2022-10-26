@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c582b3b6-6cd6-4db9-b491-b9bbcb1f2914" name="Changes" comment="ejercicio_tema_4">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/cochecrud/CocheCRUDImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/cochecrud/ICocheCRUD.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/cochecrud/test/TestCocheCRUD.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/ejercicios_7_8_9/Ejercicios.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -41,16 +38,16 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Courses/Java/Programming/Interfaces",
-    "nodejs_package_manager_path": "npm"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Courses/Java/Programming/Interfaces&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;
   }
-}]]></component>
+}</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -62,6 +59,7 @@
       <workItem from="1665587045876" duration="3427000" />
       <workItem from="1665773232783" duration="1167000" />
       <workItem from="1665796318086" duration="4387000" />
+      <workItem from="1666811942903" duration="2405000" />
     </task>
     <task id="LOCAL-00001" summary="Ejercicio 1">
       <created>1665588146305</created>
